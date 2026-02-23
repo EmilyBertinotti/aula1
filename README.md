@@ -1,2 +1,4 @@
-# aula1
-Projeto para aprender git e github
+# Etec Sales Gomes
+## Desenvolvedor
+---
+Emily Bertinotti
